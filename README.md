@@ -1,1 +1,2 @@
 # DIVISION
+This was my first project for the Computer Architecture and Operating Systems class. It basically implements a function called from C lang and divides two integers and calculates their quotient and remainder. This looks easy (and probably is for experienced asm programmers) but the twist is that the numerator might be a huge number stored in an array which makes it so that the code is a little bit longer than 10 lines.
